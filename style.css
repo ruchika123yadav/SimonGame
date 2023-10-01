@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 7px solid black;
+    margin: 2rem ;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+     
+}
+
+.red{
+    background-color: red;
+    box-shadow: 7px 7px 10px ;
+
+}
+.blue{
+    background-color: skyblue;
+    box-shadow: 7px 7px 10px ;
+
+}
+.orange{
+    background-color: orange;
+    box-shadow: 7px 7px 10px ;
+
+}
+.pink{
+    background-color: pink;
+    box-shadow: 7px 7px 10px ;
+
+}
+
+.compflash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
